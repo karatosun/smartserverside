@@ -1,5 +1,7 @@
 django
 djangorestframework
+django-heroku
+gunicorn
 psycopg2
 djangorestframework_simplejwt
 Pillow
